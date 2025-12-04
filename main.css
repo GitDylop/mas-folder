@@ -24,6 +24,7 @@ body {
     background-image: url('src/images/cloth.png');
     background-repeat: repeat;
     background-blend-mode: multiply;
+    -webkit-background-blend-mode: multiply;
     justify-items: center;
 }
 
