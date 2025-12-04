@@ -20,7 +20,7 @@ h2 {
 }
 
 body {
-    background-image: url('../src/images/cloth.png');
+    background-image: url('src/images/cloth.png');
     background-color: hsl(120, 50%, 20%);
     background-blend-mode: multiply;
     background-repeat: repeat;
